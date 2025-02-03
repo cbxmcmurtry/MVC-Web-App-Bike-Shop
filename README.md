@@ -1,4 +1,4 @@
-# MVC-Web-App-Bike-Shop
+# MVC-Web-App-Skateboard-Shop
 This project involved creating a customizable web application using Spring Boot with a Java backend and a Thymeleaf-based front-end. The task was to simulate a simple shop with five products and five generic parts, demonstrating the Model-View-Controller (MVC) design pattern. The project leveraged Spring Boot’s auto-configuration, embedded web server, and database integration for a streamlined development experience.
 
 Technologies and Tools Used:
