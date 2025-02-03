@@ -9,5 +9,5 @@ H2 Database: Lightweight, in-memory database for testing.
 GitLab: Version control and repository management.
 IntelliJ IDEA: Development environment for Java.
 
-Outcomes
+Outcomes:
 This project demonstrated the application of the MVC architecture in a real-world scenario, focusing on modularity, maintainability, and efficient data handling. The integration of Spring Boot and Thymeleaf provided a seamless development experience, while the use of Docker prepared the application for scalable deployment.
